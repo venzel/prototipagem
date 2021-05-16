@@ -36,9 +36,11 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 
 ### Esquemático do circuito
 
-<img src="./arquivos/imagens/cir.jpeg" /><br /><br />
+<img src="./arquivos/imagens/esq.png" /><br /><br />
 
 ### Trilhas e Layer
+
+<img src="./arquivos/imagens/trilhas.png" /><br /><br />
 
 <img src="./arquivos/imagens/layer.png" /><br /><br />
 
