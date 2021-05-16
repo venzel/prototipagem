@@ -9,9 +9,9 @@ A atividade faz parte da disciplina **Técnicas de Prototipagem**, em **Engenhar
 
 # PROJETO DE SISTEMA DE AQUISIÇÃO DE DADOS
 
-### Sobre o projeto
+### Projeto
 
-O projeto consite no desenvolvimento de um shield para arduíno, com a principal funcionalidade ...
+O projeto consite no desenvolvimento de um shield para arduíno, com a principal funcionalidade na aquisição de dados mediante temperaturas. <br /><br />
 
 ### Sobre o shield
 
