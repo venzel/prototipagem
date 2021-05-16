@@ -1,6 +1,6 @@
 ### Atividade de prototipagem
 
-A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrado pelos Professores Dr. *Alexandre Sales Vasconcelos* e Dr. *Moacy Pereira da Silva*, que consiste em desenvolver um shield coletor da dados para arduíno.<br /><br />
+A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pelos Professores Dr. **Alexandre Sales Vasconcelos** e Dr. **Moacy Pereira da Silva**, que consiste em desenvolver um shield para arduíno.<br /><br />
 
 ### Equipe
 
@@ -17,7 +17,7 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 
 👉 <a href="https://a360.co/3w6mWB6" target="_blank">Link do projeto 3D</a><br /><br />
 
-## Componentes utilizados
+### Componentes utilizados
 
 - 2 LM35
 - 2 TIP31C
@@ -30,13 +30,20 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 - 1 Potenciômetro 
 - 1 motor dc (cooler)<br /><br />
 
-## Esquemático do circuito
-<br /><img src="./arquivos/imagens/cir.jpeg" /><br /><br /><br /><br />
+### Download dos arquivos
 
-## Trilhas e Layer
+👉 <a href="./arquivos/pcb/esquematico.brd" target="_blank">Arquivo 1</a>
+👉 <a href="./arquivos/pcb/esquematico.dvh" target="_blank">Arquivo 2</a><br /><br />
+
+### Esquemático do circuito
+<br /><img src="./arquivos/imagens/cir.jpeg" /><br /><br />
+
+### Trilhas e Layer
 
 <br /><img src="./arquivos/imagens/layer.png" />
 
 <img src="./arquivos/imagens/lay.png" /><br /><br /><br /><br />
 
+### Esquemático 3D
 
+<br /><img src="./arquivos/imagens/front.png" /><br /><br /><br /><br />
