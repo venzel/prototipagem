@@ -69,6 +69,7 @@ void setup() {
 }
 
 void loop() {
+    //...
     digitalWrite(IN_4, HIGH);
     digitalWrite(IN_5, HIGH);
 }
