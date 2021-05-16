@@ -13,8 +13,6 @@ A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pel
 
 O shield é composto de três funcionalidades, sendo elas, um sistema de aquecimento, um sistema de controle de velocidade de motor com auxílio de transmissores e receptores infravermelhos e um sistema de conversão de um sinal analógico para um PWM que alimenta um led, configurando uma forma iterativa de observar e manipular a duração do pulso em nível lógico alto ou baixo de acordo com o nível de luminosidade do led.<br /><br />
 
-<img src="./arquivos/imagens/shield.png" /><br /><br />
-
 👉 <a href="https://a360.co/3w6mWB6" target="_blank">Link do projeto 3D</a><br /><br />
 
 ### Componentes utilizados
@@ -47,5 +45,7 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 <img src="./arquivos/imagens/lay.png" /><br /><br />
 
 ### Esquemático 3D
+
+<img src="./arquivos/imagens/shield.png" /><br /><br />
 
 <img src="./arquivos/imagens/front.png" />
