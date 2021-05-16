@@ -1,6 +1,6 @@
 ### Atividade de prototipagem
 
-A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pelos Professores Dr. **Alexandre Sales Vasconcelos** e Dr. **Moacy Pereira da Silva**, que consiste em desenvolver um shield para arduíno.<br /><br />
+A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pelos Professores Dr. **Moacy Pereira da Silva** e Dr. **Alexandre Sales Vasconcelos**, que consiste em desenvolver um shield para arduíno.<br /><br />
 
 ### Equipe
 
