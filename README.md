@@ -48,4 +48,23 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 
 <img src="./arquivos/imagens/shield.png" /><br /><br />
 
-<img src="./arquivos/imagens/front.png" />
+<img src="./arquivos/imagens/front.png" /><br /><br />
+
+### Código de simulação
+
+```c
+
+int IN_4 = 4;
+int IN_5 = 5;
+
+void setup() {
+    pinMode(IN_4, OUTPUT);
+    pinMode(IN_5, OUTPUT);
+}
+
+void loop() {
+    digitalWrite(IN_4, HIGH);
+    digitalWrite(IN_5, HIGH);
+}
+```
+
