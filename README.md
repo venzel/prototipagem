@@ -9,7 +9,7 @@ A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pel
 
 # PROJETO DE SISTEMA DE AQUISIÇÃO DE DADOS
 
-## Sobre o shield
+### Sobre o shield
 
 O shield é composto de três funcionalidades, sendo elas, um sistema de aquecimento, um sistema de controle de velocidade de motor com auxílio de transmissores e receptores infravermelhos e um sistema de conversão de um sinal analógico para um PWM que alimenta um led, configurando uma forma iterativa de observar e manipular a duração do pulso em nível lógico alto ou baixo de acordo com o nível de luminosidade do led.<br /><br />
 
