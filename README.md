@@ -33,17 +33,17 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 ### Download dos arquivos
 
 👉 <a href="./arquivos/pcb/esquematico.brd" target="_blank">Arquivo 1</a>
-👉 <a href="./arquivos/pcb/esquematico.dvh" target="_blank">Arquivo 2</a><br /><br />
+👉 <a href="./arquivos/pcb/esquematico.sch" target="_blank">Arquivo 2</a><br /><br />
 
 ### Esquemático do circuito
 <br /><img src="./arquivos/imagens/cir.jpeg" /><br /><br />
 
 ### Trilhas e Layer
 
-<br /><img src="./arquivos/imagens/layer.png" />
+<br /><img src="./arquivos/imagens/layer.png" /><br /><br />
 
-<img src="./arquivos/imagens/lay.png" /><br /><br /><br /><br />
+<img src="./arquivos/imagens/lay.png" /><br /><br />
 
 ### Esquemático 3D
 
-<br /><img src="./arquivos/imagens/front.png" /><br /><br /><br /><br />
+<br /><img src="./arquivos/imagens/front.png" />
