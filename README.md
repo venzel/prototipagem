@@ -46,9 +46,9 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 
 ### Esquemático 3D
 
-<img src="./arquivos/imagens/shield.png" /><br /><br />
+<img width="100%" src="./arquivos/imagens/shield.png" /><br /><br />
 
-<img src="./arquivos/imagens/front.png" /><br /><br />
+<img width="100%" src="./arquivos/imagens/front.png" /><br /><br />
 
 ### Código de simulação
 
@@ -67,4 +67,3 @@ void loop() {
     digitalWrite(IN_5, HIGH);
 }
 ```
-
