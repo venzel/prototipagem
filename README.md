@@ -1,6 +1,6 @@
 ### Atividade de prototipagem
 
-A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pelos Professores Dr. **Moacy Pereira da Silva** e Dr. **Alexandre Sales Vasconcelos**, que consiste em desenvolver um shield para arduíno.<br /><br />
+A atividade faz parte da disciplina **Técnicas de Prototipagem**, em **Engenharia de Computação, IFPB**, ministrada pelos Professores **Dr. Moacy Pereira da Silva** e **Dr. Alexandre Sales Vasconcelos**. <br /><br />
 
 ### Equipe
 
@@ -8,6 +8,10 @@ A atividade faz parte da disciplina **Técnicas de Prototipagem** ministrada pel
 -   Edivam Enéas de Almeida Júnior<br /><br />
 
 # PROJETO DE SISTEMA DE AQUISIÇÃO DE DADOS
+
+### Sobre o projeto
+
+O projeto consite no desenvolvimento de um shield para arduíno, com a principal funcionalidade ...
 
 ### Sobre o shield
 
