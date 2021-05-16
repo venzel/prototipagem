@@ -32,7 +32,7 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 
 ### Download dos arquivos
 
-👉 <a href="./arquivos/pcb/esquematico.zip" target="_blank">Link para download dos arquivos do projeto</a><br /><br />
+👉 <a href="https://github.com/venzel/shield_dados/raw/master/arquivos/pcb/esquematico.zip" target="_blank">Link para download dos arquivos do projeto</a><br /><br />
 
 ### Esquemático do circuito
 
