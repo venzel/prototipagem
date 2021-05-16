@@ -11,7 +11,7 @@ A atividade faz parte da disciplina **Técnicas de Prototipagem**, em **Engenhar
 
 ### Projeto
 
-O projeto consite no desenvolvimento de um shield para arduíno, com a principal funcionalidade na aquisição de dados mediante temperaturas. <br /><br />
+O projeto consite no desenvolvimento de um shield para arduíno, com a principal funcionalidade na aquisição de dados mediante temperaturas de aquecimento. <br /><br />
 
 ### Sobre o shield
 
