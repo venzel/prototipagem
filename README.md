@@ -23,14 +23,16 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 - 1 resistor 330hms
 - 1 resistor 10khms
 - 2 resistores 220hms
-- 2 led
+- 2 leds
 - 1 Led infravermelho IR - TX/RX
 - 1 Potenciômetro 
 - 1 motor dc (cooler)<br /><br />
 
 ### Download dos arquivos
 
-👉 <a href="https://github.com/venzel/shield_dados/raw/master/arquivos/pcb/esquematico.zip" target="_blank">Link para download dos arquivos do projeto</a><br /><br />
+👉 <a href="https://github.com/venzel/shield_dados/raw/master/arquivos/pcb/esquematico.zip" target="_blank">Arquivos do projeto</a><br />
+
+👉 <a href="https://github.com/venzel/shield_dados/raw/master/arquivos/pcb/esquematico.zip" target="_blank">Documento em PDF do projeto</a><br /><br />
 
 ### Esquemático do circuito
 
