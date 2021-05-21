@@ -1516,12 +1516,14 @@ Feel free to contact us at &lt;a href="mailto:Support@PCBLayout.com"&gt;Support@
 <segment>
 <pinref part="IC2" gate="G$1" pin="VO"/>
 <wire x1="35.56" y1="5.08" x2="45.72" y2="5.08" width="0.1524" layer="91"/>
-<pinref part="PINOSANALOGICOS" gate="A" pin="2"/>
-<wire x1="45.72" y1="5.08" x2="45.72" y2="10.16" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="10.16" x2="-17.78" y2="10.16" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="5.08" x2="45.72" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="-17.78" x2="-5.08" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="-5.08" y1="-17.78" x2="-5.08" y2="5.08" width="0.1524" layer="91"/>
+<pinref part="PINOSANALOGICOS" gate="A" pin="4"/>
+<wire x1="-5.08" y1="5.08" x2="-17.78" y2="5.08" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$5" class="0">
+<net name="N$14" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="VO"/>
 <wire x1="38.1" y1="40.64" x2="45.72" y2="40.64" width="0.1524" layer="91"/>
