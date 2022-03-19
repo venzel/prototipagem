@@ -1,6 +1,6 @@
-### Atividade de prototipagem
+### Projeto final da disciplina de Prototipage IFPB
 
-A atividade faz parte da disciplina **Técnicas de Prototipagem**, em **Engenharia de Computação, IFPB**, ministrada pelos Professores **Dr. Moacy Pereira da Silva** e **Dr. Alexandre Sales Vasconcelos**. <br /><br />
+O projeto faz parte da disciplina **Técnicas de Prototipagem**, em **Engenharia de Computação, IFPB**, ministrada pelos Professores **Dr. Moacy Pereira da Silva** e **Dr. Alexandre Sales Vasconcelos**. <br /><br />
 
 ### Equipe
 
