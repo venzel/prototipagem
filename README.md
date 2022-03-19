@@ -1,5 +1,7 @@
 ### Projeto final da disciplina de Prototipage IFPB
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/venzel/prototipagem/blob/master/LICENSE)
+
 O projeto faz parte da disciplina **Técnicas de Prototipagem**, em **Engenharia de Computação, IFPB**, ministrada pelos Professores **Dr. Moacy Pereira da Silva** e **Dr. Alexandre Sales Vasconcelos**. <br /><br />
 
 ### Equipe
@@ -21,16 +23,16 @@ O shield é composto de três funcionalidades, sendo elas, um sistema de aquecim
 
 ### Componentes utilizados
 
-- 2 LM35
-- 2 TIP31C
-- 2 resistores 470hms
-- 1 resistor 330hms
-- 1 resistor 10khms
-- 2 resistores 220hms
-- 2 leds
-- 1 Led infravermelho IR - TX/RX
-- 1 Potenciômetro 
-- 1 motor dc (cooler)<br /><br />
+-   2 LM35
+-   2 TIP31C
+-   2 resistores 470hms
+-   1 resistor 330hms
+-   1 resistor 10khms
+-   2 resistores 220hms
+-   2 leds
+-   1 Led infravermelho IR - TX/RX
+-   1 Potenciômetro
+-   1 motor dc (cooler)<br /><br />
 
 ### Download dos arquivos
 
